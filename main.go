@@ -16,7 +16,7 @@ import (
 )
 
 const (
-	webSocketURL       = "ws://111.59.242.198:36897"
+	webSocketURL       = "ws://"
 	reconnectInterval  = 5 * time.Second
 	serverInfoEndpoint = "http://127.0.0.1:37549/api/serverinfo"
 	authUsername       = "admin"
